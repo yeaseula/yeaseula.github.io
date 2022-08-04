@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61264d32.css",
+    "main.js": "/static/js/main.fe328e44.js",
+    "static/js/787.eaad36ba.chunk.js": "/static/js/787.eaad36ba.chunk.js",
+    "static/media/farmfood.jpg": "/static/media/farmfood.006a271117948954ad6c.jpg",
+    "static/media/slider2.jpg": "/static/media/slider2.df73407b7cca753ad022.jpg",
+    "static/media/slider.jpg": "/static/media/slider.843e51e696444a56392b.jpg",
+    "static/media/black.jpg": "/static/media/black.202e1874c057b5dfa02e.jpg",
+    "static/media/3cut3.jpg": "/static/media/3cut3.7b6dee1e46d9fd1e5de7.jpg",
+    "static/media/3cut2.jpg": "/static/media/3cut2.c51cdbd6253d1abd90c9.jpg",
+    "static/media/3cut1.jpg": "/static/media/3cut1.377806b7058b31d10c99.jpg",
+    "static/media/middle1.jpg": "/static/media/middle1.0f392977ec3575dc0d5f.jpg",
+    "static/media/middle2.jpg": "/static/media/middle2.7526a4da5e3687303a01.jpg",
+    "index.html": "/index.html",
+    "main.61264d32.css.map": "/static/css/main.61264d32.css.map",
+    "main.fe328e44.js.map": "/static/js/main.fe328e44.js.map",
+    "787.eaad36ba.chunk.js.map": "/static/js/787.eaad36ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61264d32.css",
+    "static/js/main.fe328e44.js"
+  ]
+}
